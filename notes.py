@@ -3,7 +3,7 @@
 ct = 0
 while ct < 4:
     print("hi")
-    #ct = ct + 1
+    ct = ct + 1
     ct += 1
 
 #while loop template #2
