@@ -12,9 +12,9 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+I wasn't sure on how to answer the number 2 with the % signs. I kept getting stuck on the second while loop and I wasn't too sure on how to use the .strip function. 
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
+The match funtion would look for words or phrases and look for the similarites. It is the same as the if and while loops we created in the program but the match function has some of those already in there. sss
 
